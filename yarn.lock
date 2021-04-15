@@ -94,7 +94,7 @@
     semver "^5.4.1"
     source-map "^0.5.0"
 
-"@babel/core@^7.1.0", "@babel/core@^7.12.1", "@babel/core@^7.12.10", "@babel/core@^7.12.3", "@babel/core@^7.7.5", "@babel/core@^7.8.4", "@babel/core@^7.9.0":
+"@babel/core@^7.1.0", "@babel/core@^7.12.1", "@babel/core@^7.12.10", "@babel/core@^7.12.3", "@babel/core@^7.7.5", "@babel/core@^7.8.4":
   version "7.12.10"
   resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.12.10.tgz#b79a2e1b9f70ed3d84bbfb6d8c4ef825f606bccd"
   integrity sha512-eTAlQKq65zHfkHZV0sIVODCPGVgoo1HdBlbSLi9CqOzuZanMv2ihzY+4paiKr1mH+XmYESMAmJ/dpZ68eN6d8w==
@@ -1116,11 +1116,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@babel/types@^7.0.0", "@babel/types@^7.10.4", "@babel/types@^7.10.5", "@babel/types@^7.11.0", "@babel/types@^7.11.5", "@babel/types@^7.12.1", "@babel/types@^7.12.10", "@babel/types@^7.12.5", "@babel/types@^7.12.7", "@babel/types@^7.3.0", "@babel/types@^7.3.3", "@babel/types@^7.4.4", "@babel/types@^7.9.5":
+"@babel/types@^7.0.0", "@babel/types@^7.10.4", "@babel/types@^7.10.5", "@babel/types@^7.11.0", "@babel/types@^7.11.5", "@babel/types@^7.12.1", "@babel/types@^7.12.10", "@babel/types@^7.12.5", "@babel/types@^7.12.7", "@babel/types@^7.3.0", "@babel/types@^7.3.3", "@babel/types@^7.4.4":
   version "7.12.10"
   resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.12.10.tgz#7965e4a7260b26f09c56bcfcb0498af1f6d9b260"
   integrity sha512-sf6wboJV5mGyip2hIpDSKsr80RszPinEFjsHTalMxZAZkoQ2/2yQzxlcFN52SJqsyPfLtPmenL4g2KB3KJXPDw==
-  
   dependencies:
     "@babel/helper-validator-identifier" "^7.10.4"
     lodash "^4.17.19"
@@ -6218,10 +6217,10 @@ eslint-config-prettier@^6.15.0:
   dependencies:
     get-stdin "^6.0.0"
 
-eslint-plugin-prettier@^3.1.4:
-  version "3.1.4"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-3.1.4.tgz#168ab43154e2ea57db992a2cd097c828171f75c2"
-  integrity sha512-jZDa8z76klRqo+TdGDTFJSavwbnWK2ZpqGKNZ+VvweMW516pDUMmQ2koXvxEE4JhzNvTv+radye/bWGBmA6jmg==
+eslint-plugin-prettier@^3.4.0:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-3.4.0.tgz#cdbad3bf1dbd2b177e9825737fe63b476a08f0c7"
+  integrity sha512-UDK6rJT6INSfcOo545jiaOwB701uAIt2/dR7WnFQoGCVl1/EMqdANBmwUaqqQ45aXprsTGzSa39LI1PyuRBxxw==
   dependencies:
     prettier-linter-helpers "^1.0.0"
 
